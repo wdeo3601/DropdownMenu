@@ -1,0 +1,3 @@
+rootProject.name = "dropdownMenu"
+include ':app'
+include ':drop_down_menu'

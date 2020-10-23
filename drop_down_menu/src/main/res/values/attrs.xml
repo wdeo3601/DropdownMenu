@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DropDownMenu">
+
+        <attr name="ddFrameContentView" format="reference"/>
+        <attr name="ddUnderlineColor" format="color"/>
+        <attr name="ddUnderlineWidth" format="dimension"/>
+        <attr name="ddTextSelectedColor" format="color"/>
+        <attr name="ddTextUnselectedColor" format="color"/>
+        <attr name="ddTextPadding" format="dimension"/>
+        <attr name="ddMaskColor" format="color"/>
+        <attr name="ddMenuTextSize" format="dimension"/>
+        <attr name="ddMenuSelectedIcon" format="reference"/>
+        <attr name="ddMenuUnselectedIcon" format="reference"/>
+        <attr name="ddMenuIconSize" format="dimension"/>
+        <attr name="ddMenuIconPadding" format="dimension"/>
+        <attr name="ddMenuHeightPercent" format="float"/>
+    </declare-styleable>
+</resources>

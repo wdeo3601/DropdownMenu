@@ -19,7 +19,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <!--  app:ddFrameContentView，内容 View 的id，DropDownMenu 拿到后在内部为内容区域进行布局  -->
-    <com.wdeo3601.example.DropDownMenu
+    <com.wdeo3601.dropdownmenu.DropDownMenu
         android:id="@+id/dropdown_menu"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -53,6 +53,6 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_principle"/>
         </LinearLayout>
-    </com.wdeo3601.example.DropDownMenu>
+    </com.wdeo3601.dropdownmenu.DropDownMenu>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

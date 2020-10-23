@@ -37,14 +37,10 @@ publish {
     artifactId = 'drop-down-menu'     //compile引用时的第2部分项目名
     publishVersion = '1.0.5'    //compile引用时的第3部分版本号
     desc = 'forked from dongjunkun/DropDownMenu,refactor with ConstraintLayout '//d项目描述
-    website = 'https://github.com/wdeo3601/MultipleImageSelect' //github 托管地址
+    website = 'https://github.com/wdeo3601/DropdownMenu' //github 托管地址
 }
 
 java {
     sourceCompatibility = JavaVersion.VERSION_1_8
     targetCompatibility = JavaVersion.VERSION_1_8
-}
-
-dependencies {
-    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 }

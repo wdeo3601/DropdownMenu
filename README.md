@@ -9,8 +9,8 @@
 
 ### 效果展示
 
-![tab 模式](../dropdown_menu_1.gif)
-![无 tab 模式](../dropdown_menu_2.gif)
+![tab 模式](./dropdown_menu_1.gif)  
+![无 tab 模式](./dropdown_menu_2.gif)
 
 ### 使用
 
